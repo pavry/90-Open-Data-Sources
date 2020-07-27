@@ -22,7 +22,8 @@
 6. [Data.texas.gov](https://data.texas.gov/)
 7. [ Data.austintexas.gov](https://data.austintexas.gov/)
 8. [Data.gov.ua](https://data.gov.ua/)
-## **Financial and economic Data**
+
+## **Financial and Economic Data**
 
 1. [Quandl](https://www.quandl.com/)
 2. [World Bank Open Data](https://data.worldbank.org/)
