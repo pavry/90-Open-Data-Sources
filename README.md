@@ -151,5 +151,3 @@
 
 
 ![](https://www.memecreator.org/static/images/memes/4715958.jpg)
-
-Kaggle: [90+ Open Data Sources](https://www.kaggle.com/general/167203)
